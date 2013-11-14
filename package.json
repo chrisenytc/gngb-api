@@ -2,7 +2,7 @@
   "name": "gngb-api",
   "description": "The API to get data of GitHub, Npm, Gem and Bower and make a badge",
   "version": "0.1.0",
-  "homepage": "https://github.com/chrienytc/gngb-api",
+  "homepage": "https://github.com/chrisenytc/gngb-api",
   "author": {
     "name": "Christopher EnyTC",
     "email": "chrisenytc@gmail.com",
@@ -22,15 +22,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/chrienytc/gngb-api.git"
+    "url": "git://github.com/chrisenytc/gngb-api.git"
   },
   "bugs": {
-    "url": "https://github.com/chrienytc/gngb-api/issues"
+    "url": "https://github.com/chrisenytc/gngb-api/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/chrienytc/gngb-api/blob/master/LICENSE-MIT"
+      "url": "https://github.com/chrisenytc/gngb-api/blob/master/LICENSE-MIT"
     }
   ],
   "main": "lib/gngb-api",

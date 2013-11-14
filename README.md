@@ -1,4 +1,4 @@
-# GNGB API [![Build Status](https://secure.travis-ci.org/chrienytc/gngb-api.png?branch=master)](http://travis-ci.org/chrienytc/gngb-api) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/gngb-api/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# GNGB API [![Build Status](https://secure.travis-ci.org/chrisenytc/gngb-api.png?branch=master)](http://travis-ci.org/chrisenytc/gngb-api) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/gngb-api/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 The API to get data of GitHub, Npm, Gem and Bower and make a badge.
 
