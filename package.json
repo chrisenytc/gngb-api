@@ -1,0 +1,54 @@
+{
+  "name": "gngb-api",
+  "description": "The API to get data of GitHub, Npm, Gem and Bower and make a badge",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chrienytc/gngb-api",
+  "author": {
+    "name": "Christopher EnyTC",
+    "email": "chrisenytc@gmail.com",
+    "url": "http://chris.enytc.com"
+  },
+  "contributors": [
+    {
+      "name": "Lázaro Alvarenga",
+      "email": "lazaroalvarenga@email.com",
+      "url": "https://github.com/lazaroalvarenga"
+    },
+    {
+      "name": "Lucas Lima",
+      "email": "lucaslimay@gmail.com",
+      "url": "https://github.com/Lucaslimay"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrienytc/gngb-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chrienytc/gngb-api/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/chrienytc/gngb-api/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/gngb-api",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "dependencies": {
+    "request": "~2.27.0",
+    "gm": "~1.13.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.1"
+  },
+  "keywords": ["api", "github", "npm", "gem", "bower"]
+}
