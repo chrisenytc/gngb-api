@@ -1,7 +1,7 @@
 {
   "name": "gngb-api",
   "description": "The API to get data of GitHub, Npm, Gem and Bower and make a badge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/chrisenytc/gngb-api",
   "author": {
     "name": "Christopher EnyTC",
@@ -9,11 +9,6 @@
     "url": "http://chris.enytc.com"
   },
   "contributors": [
-    {
-      "name": "Lázaro Alvarenga",
-      "email": "lazaroalvarenga@email.com",
-      "url": "https://github.com/lazaroalvarenga"
-    },
     {
       "name": "Lucas Lima",
       "email": "lucaslimay@gmail.com",

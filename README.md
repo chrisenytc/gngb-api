@@ -13,6 +13,38 @@ gngb.createBadge(res, 'gh', 'livi18n', 'chrisenytc');
 
 ## Documentation
 
+#### .checkPackage(res, data, service, name, user)
+
+**Parameter**: `res`
+**Type**: `controller response`
+
+**Parameter**: `data`
+**Type**: `JSON Object`
+
+**Parameter**: `service`
+**Type**: `String`
+**Example**: `gh`
+
+**Parameter**: `name`
+**Type**: `String`
+**Example**: `livi18n`
+
+**Parameter**: `user`
+**Type**: `String`
+**Example**: `chrisenytc`
+
+The 'checkPackage' method is responsible for checking if the package exists and return a boolean value.
+
+How to use this method
+
+```javascript
+var data {
+  image: ''
+};
+
+gngb.checkPackage(res, data, 'gh', 'livi18n', 'chrisenytc');
+```
+
 #### .createBadge(res, service, name, user)
 
 **Parameter**: `res`
