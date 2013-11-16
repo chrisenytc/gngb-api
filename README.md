@@ -38,7 +38,7 @@ The 'checkPackage' method is responsible for checking if the package exists and 
 How to use this method
 
 ```javascript
-var data {
+var data = {
   image: ''
 };
 
