@@ -1,7 +1,7 @@
 {
   "name": "gngb-api",
   "description": "The API to get data of GitHub, Npm, Gem and Bower and make a badge",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/chrisenytc/gngb-api",
   "author": {
     "name": "Christopher EnyTC",
@@ -45,5 +45,5 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.1"
   },
-  "keywords": ["api", "github", "npm", "gem", "bower"]
+  "keywords": ["api", "github", "npm", "gem", "bower", "badges"]
 }
